@@ -1,0 +1,2 @@
+# jellyfin-assets
+jellyfin-assets
